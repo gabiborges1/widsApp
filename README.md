@@ -8,7 +8,7 @@ O minicurso de shiny é um curso expositivo. A ideia é entender sobre os princi
 
 - Instale o R ([Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-r-on-ubuntu-20-04-pt), [Windows](https://cran.r-project.org/bin/windows/base/))
 - Instale o Rstudio ([Ubuntu](https://www.edivaldobrito.com.br/rstudio-no-linux/), [Windows](https://www.rstudio.com/products/rstudio/download/))
-- Instale o pacotes widsApp
+- Instale o pacote widsApp
   - `devtools::install_github("gabiborges1/widsApp")`
 - Rode `widsApp:run_app()` 
 
