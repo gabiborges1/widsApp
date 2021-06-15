@@ -4,6 +4,9 @@
 #'     DO NOT REMOVE.
 #' @import shiny
 #' @noRd
+
+load("data/amazon_fires.rda")
+
 app_server <- function( input, output, session ) {
   
   # Filtrando o dataset a medida que o usuário seleciona um input diferente.
